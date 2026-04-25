@@ -78,4 +78,4 @@ While descriptive evidence strongly suggests higher education is associated with
 
 An interactive Streamlit dashboard allows users to simulate the effect of tuition policy changes on unemployment probability in real time, with dynamic confidence bands and counterfactual scenario analysis.
 
-👉 **[Live Dashboard](https://da-final-project-d2nado2dmhlkup3teta3fd.streamlit.app/)** ← replace with your deployed URL
+👉 **[Live Dashboard](https://da-final-project-d2nado2dmhlkup3teta3fd.streamlit.app/)**
